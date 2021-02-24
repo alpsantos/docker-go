@@ -5,7 +5,7 @@ Available on my DockerHub : https://hub.docker.com/repository/docker/alpsantos/c
 
 ## To run :
 
-### Get image: 
+1. Get image: 
    docker pull alpsantos/codeeducation
-### Run image: 
+2. Run image: 
    docker run alpsantos/codeeducation
