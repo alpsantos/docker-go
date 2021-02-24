@@ -1,4 +1,4 @@
-# docker-go
+## docker + go
 Description : just funning with docker + Golang
 
-Link dockerhub : https://hub.docker.com/repository/docker/alpsantos/codeeducation
+Available on my DockerHub : https://hub.docker.com/repository/docker/alpsantos/codeeducation
